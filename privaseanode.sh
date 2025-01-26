@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Gutso - V!."
 echo "Privasea node kurulumu yükleniyor.."
 sleep 1
